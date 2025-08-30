@@ -1,7 +1,7 @@
 {
   "name": "@wxyzqt/role",
   "version": "1.0.0",
-  "description": "",
+  "description": "角色控制类,仅ES模块",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "type": "module",

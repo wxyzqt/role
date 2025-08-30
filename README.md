@@ -26,4 +26,4 @@ consle.log(userRole.hasAccess("admin")); // false
 consle.log(userRole.hasAccess(["user", "visitor"])); // true
 ```
 
-详细请参考文档[docs](https://github.com/wxyzqt/role/doc/index.html)
+详细请参考文档[docs](https://wxyzqt.github.io/role/classes/Role.html)
