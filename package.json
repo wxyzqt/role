@@ -8,7 +8,7 @@
   "homepage": "https://github.com/wxyzqt/role#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wxyzqt/role.git"
+    "url": "git+https://github.com/wxyzqt/role.git"
   },
   "files": [
     "dist"
